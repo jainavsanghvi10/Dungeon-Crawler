@@ -1,12 +1,6 @@
 # Project Discription
 2D Dungeon Crawler Game using Legend of Zelda Sprites built with the help of SDL Library in C++.
 
-# Team Members:
-1) Jainav Sanghvi
-2) Kaushik Mishra
-3) Aamod BK
-4) Naitiksinh Solanki
-
 # Instructions to run the game:
 ● Clone the provided repository onto your local machine.\
 ● Open the project using Visual Studio 2022. (open the .sln file)\
